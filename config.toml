@@ -1,0 +1,5 @@
+baseURL = 'https://tofindme.github.io/blog'
+languageCode = 'en-us'
+title = '小码割的源码阅读记录'
+theme = "ananke"
+
