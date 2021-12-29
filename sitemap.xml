@@ -2,20 +2,95 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tofindme.github.io/blog/posts/</loc>
-    <lastmod>2021-12-15T14:56:17+08:00</lastmod>
+    <loc>/categories/</loc>
+    <lastmod>2021-12-26T21:30:09+08:00</lastmod>
   </url><url>
-    <loc>https://tofindme.github.io/blog/posts/test/</loc>
-    <lastmod>2021-12-15T14:56:17+08:00</lastmod>
+    <loc>/tags/gorm/</loc>
+    <lastmod>2021-12-26T21:30:09+08:00</lastmod>
   </url><url>
-    <loc>https://tofindme.github.io/blog/</loc>
-    <lastmod>2021-12-15T14:56:17+08:00</lastmod>
+    <loc>/posts/gorm/</loc>
+    <lastmod>2021-12-26T21:30:09+08:00</lastmod>
   </url><url>
-    <loc>https://tofindme.github.io/blog/posts/golang/go-redis/</loc>
-    <lastmod>2021-12-15T14:28:28+08:00</lastmod>
+    <loc>/posts/</loc>
+    <lastmod>2021-12-26T21:30:09+08:00</lastmod>
   </url><url>
-    <loc>https://tofindme.github.io/blog/categories/</loc>
+    <loc>/tags/</loc>
+    <lastmod>2021-12-26T21:30:09+08:00</lastmod>
   </url><url>
-    <loc>https://tofindme.github.io/blog/tags/</loc>
+    <loc>/categories/%E5%BC%80%E6%BA%90%E6%BA%90%E7%A0%81%E6%B5%85%E6%9E%90/</loc>
+    <lastmod>2021-12-26T21:30:09+08:00</lastmod>
+  </url><url>
+    <loc>/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
+    <lastmod>2021-12-26T21:30:09+08:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-12-26T21:30:09+08:00</lastmod>
+  </url><url>
+    <loc>/posts/go-redis/</loc>
+    <lastmod>2021-12-23T10:15:30+08:00</lastmod>
+  </url><url>
+    <loc>/tags/go-redis/</loc>
+    <lastmod>2021-12-23T10:15:30+08:00</lastmod>
+  </url><url>
+    <loc>/tags/redis-client/</loc>
+    <lastmod>2021-12-23T10:15:30+08:00</lastmod>
+  </url><url>
+    <loc>/tags/gin/</loc>
+    <lastmod>2021-12-22T10:50:30+08:00</lastmod>
+  </url><url>
+    <loc>/tags/golang/</loc>
+    <lastmod>2021-12-22T10:50:30+08:00</lastmod>
+  </url><url>
+    <loc>/tags/martini/</loc>
+    <lastmod>2021-12-22T10:50:30+08:00</lastmod>
+  </url><url>
+    <loc>/posts/gin-martini/</loc>
+    <lastmod>2021-12-22T10:50:30+08:00</lastmod>
+  </url><url>
+    <loc>/posts/map/</loc>
+    <lastmod>2021-12-21T16:14:30+08:00</lastmod>
+  </url><url>
+    <loc>/categories/go%E5%86%85%E9%83%A8%E6%BA%90%E7%A0%81%E6%B5%85%E6%9E%90/</loc>
+    <lastmod>2021-12-21T16:14:30+08:00</lastmod>
+  </url><url>
+    <loc>/tags/hash-table/</loc>
+    <lastmod>2021-12-21T16:14:30+08:00</lastmod>
+  </url><url>
+    <loc>/tags/map/</loc>
+    <lastmod>2021-12-21T16:14:30+08:00</lastmod>
+  </url><url>
+    <loc>/tags/sync-map/</loc>
+    <lastmod>2021-12-21T16:14:30+08:00</lastmod>
+  </url><url>
+    <loc>/posts/slice/</loc>
+    <lastmod>2021-12-20T20:30:30+08:00</lastmod>
+  </url><url>
+    <loc>/tags/slice/</loc>
+    <lastmod>2021-12-20T20:30:30+08:00</lastmod>
+  </url><url>
+    <loc>/archives/</loc>
+    <lastmod>2021-12-20T17:54:45+08:00</lastmod>
+  </url><url>
+    <loc>/tags/channel/</loc>
+    <lastmod>2021-12-16T19:15:30+08:00</lastmod>
+  </url><url>
+    <loc>/posts/channel/</loc>
+    <lastmod>2021-12-16T19:15:30+08:00</lastmod>
+  </url><url>
+    <loc>/tags/%E9%98%9F%E5%88%97/</loc>
+    <lastmod>2021-12-16T19:15:30+08:00</lastmod>
+  </url><url>
+    <loc>/posts/go-download/</loc>
+    <lastmod>2021-12-15T16:53:31+08:00</lastmod>
+  </url><url>
+    <loc>/tags/%E6%90%9E%E7%82%B9%E4%B8%9C%E8%A5%BF/</loc>
+    <lastmod>2021-12-15T15:58:49+08:00</lastmod>
+  </url><url>
+    <loc>/posts/reason/</loc>
+    <lastmod>2021-12-15T15:58:49+08:00</lastmod>
+  </url><url>
+    <loc>/posts/generate-go/</loc>
+  </url><url>
+    <loc>/posts/hugo/</loc>
   </url>
 </urlset>

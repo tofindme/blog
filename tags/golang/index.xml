@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>golang on 江湖再见</title>
+    <link>/tags/golang/</link>
+    <description>Recent content in golang on 江湖再见</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 22 Dec 2021 10:50:30 +0800</lastBuildDate><atom:link href="/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>web框架</title>
+      <link>/posts/gin-martini/</link>
+      <pubDate>Wed, 22 Dec 2021 10:50:30 +0800</pubDate>
+      
+      <guid>/posts/gin-martini/</guid>
+      <description>由于自己这个两个框架都使用过，更多的还是在martini的使用上面，近期才接触gin，使用下来，这两个框架思路都差不多，都是基于插件似的实现，用户可以自己添加自己想要的插件。 但martini在为path注册handler的时候是可以指定请求方法的参数，底层在call时会根据参数类</description>
+    </item>
+    
+    <item>
+      <title>go map</title>
+      <link>/posts/map/</link>
+      <pubDate>Tue, 21 Dec 2021 16:14:30 +0800</pubDate>
+      
+      <guid>/posts/map/</guid>
+      <description>map是一种hash table。map这数据类型在我们开发种用到很频繁，典型的通过一个key关联一个value，value可以是基础类型和复杂的类型struct,map本身。key的话需要可以用来比较，这样才可以从map找到对应的value A map is just a hash table. The data is arranged into an array of buckets. Each bucket contains up</description>
+    </item>
+    
+    <item>
+      <title>go slice</title>
+      <link>/posts/slice/</link>
+      <pubDate>Mon, 20 Dec 2021 20:30:30 +0800</pubDate>
+      
+      <guid>/posts/slice/</guid>
+      <description>slice是区别于固定长度的数组而有的一种可自动扩容的、内置的基础的数据类型。 slice在使用的时候通常遇到的问题就是下标越界，其他的如果不清除他底层的原理的话可能会带给你一些意想不到的bug，比方说数据被修改，更大的问题的话就是内存泄漏的问题了。 样例 slice下标越界 1 2 3 4 5</description>
+    </item>
+    
+    <item>
+      <title>go channel</title>
+      <link>/posts/channel/</link>
+      <pubDate>Thu, 16 Dec 2021 19:15:30 +0800</pubDate>
+      
+      <guid>/posts/channel/</guid>
+      <description>channel通常理解和把他当成程序内部的队列来使用，根据队列的长度，可以把队列分为有缓冲队列(长度非0),也叫不阻塞队列；无缓冲队列(长度为0)，也叫阻塞队列。 我们在项目实践过程种最多的用到的还是在不同goroutine之间传递数据，可以是一对一或者多对一又或者多对多，这取决于</description>
+    </item>
+    
+  </channel>
+</rss>

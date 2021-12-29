@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gorm on 江湖再见</title>
+    <link>/tags/gorm/</link>
+    <description>Recent content in gorm on 江湖再见</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 26 Dec 2021 21:30:09 +0800</lastBuildDate><atom:link href="/tags/gorm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>gorm</title>
+      <link>/posts/gorm/</link>
+      <pubDate>Sun, 26 Dec 2021 21:30:09 +0800</pubDate>
+      
+      <guid>/posts/gorm/</guid>
+      <description>数据库的出现极大的方便的应用程序开发人员，很快的开发出自己的应用。我们在使用mysql的时候通常也会用到一些orm库去操作数据库，虽然可能要去重新学习一个框架的一些api和一些设计理念，但这些orm用好也容易的方便帮助我们构建自己的应用。orm主要是对一些东西的封装，用起来更加方</description>
+    </item>
+    
+  </channel>
+</rss>

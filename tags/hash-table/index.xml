@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hash table on 江湖再见</title>
+    <link>/tags/hash-table/</link>
+    <description>Recent content in hash table on 江湖再见</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 21 Dec 2021 16:14:30 +0800</lastBuildDate><atom:link href="/tags/hash-table/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>go map</title>
+      <link>/posts/map/</link>
+      <pubDate>Tue, 21 Dec 2021 16:14:30 +0800</pubDate>
+      
+      <guid>/posts/map/</guid>
+      <description>map是一种hash table。map这数据类型在我们开发种用到很频繁，典型的通过一个key关联一个value，value可以是基础类型和复杂的类型struct,map本身。key的话需要可以用来比较，这样才可以从map找到对应的value A map is just a hash table. The data is arranged into an array of buckets. Each bucket contains up</description>
+    </item>
+    
+  </channel>
+</rss>
