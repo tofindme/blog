@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>搞点东西 on 江湖再见</title>
+    <link>/tags/%E6%90%9E%E7%82%B9%E4%B8%9C%E8%A5%BF/</link>
+    <description>Recent content in 搞点东西 on 江湖再见</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 15 Dec 2021 15:58:49 +0800</lastBuildDate><atom:link href="/tags/%E6%90%9E%E7%82%B9%E4%B8%9C%E8%A5%BF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>起源</title>
+      <link>/posts/reason/</link>
+      <pubDate>Wed, 15 Dec 2021 15:58:49 +0800</pubDate>
+      
+      <guid>/posts/reason/</guid>
+      <description>本来是想搞个公众号来记录一些自己读过的源码，无赖，之前申请过小程序，不能在申请，因为之前用过hugo,所以还是用这个来生成自己的博客，自己只要些文章，然后发布静态文件到github或自己的域名上就可以了 术业要有专攻，所以打算专门研究一两个自己用过也觉得还不错的开源软件go-red</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>martini on 江湖再见</title>
+    <link>/tags/martini/</link>
+    <description>Recent content in martini on 江湖再见</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 22 Dec 2021 10:50:30 +0800</lastBuildDate><atom:link href="/tags/martini/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>web框架</title>
+      <link>/posts/gin-martini/</link>
+      <pubDate>Wed, 22 Dec 2021 10:50:30 +0800</pubDate>
+      
+      <guid>/posts/gin-martini/</guid>
+      <description>由于自己这个两个框架都使用过，更多的还是在martini的使用上面，近期才接触gin，使用下来，这两个框架思路都差不多，都是基于插件似的实现，用户可以自己添加自己想要的插件。 但martini在为path注册handler的时候是可以指定请求方法的参数，底层在call时会根据参数类</description>
+    </item>
+    
+  </channel>
+</rss>
