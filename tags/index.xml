@@ -6,7 +6,25 @@
     <description>Recent content in Tags on 江湖再见</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 26 Dec 2021 21:30:09 +0800</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Jan 2022 19:15:30 +0800</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pitaya</title>
+      <link>/tags/pitaya/</link>
+      <pubDate>Mon, 03 Jan 2022 19:15:30 +0800</pubDate>
+      
+      <guid>/tags/pitaya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pomeol</title>
+      <link>/tags/pomeol/</link>
+      <pubDate>Mon, 03 Jan 2022 19:15:30 +0800</pubDate>
+      
+      <guid>/tags/pomeol/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>gorm</title>
       <link>/tags/gorm/</link>
